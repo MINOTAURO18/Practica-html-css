@@ -93,7 +93,7 @@
 }
 
 .seccion-tres .img{
-    width: 600px;
+    width: 80%;
     height: auto;
 }
 
@@ -110,8 +110,8 @@
 }
 
 
-@media (width < 600px){
-    .seccion-tres .img{
-        width: 300px;
+@media (width < 550px){
+    .header .nav{
+        display: none;
     }
 }
